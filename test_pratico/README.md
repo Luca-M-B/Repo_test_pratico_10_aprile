@@ -4,4 +4,4 @@ Ho voluto utilizzare alcuni design pattern per la realizzazione ed ho voluto cre
 
 Il sistema permette la gestione di utenti con diversi livelli di responsabilità (base, pro, admin), la creazione di vendite multiple, applicazione di scontistiche variabili.
 
-Utilizzare il file database.sql per far creare le giuste tabelle al database.
+Utilizzare il file database.sql per far creare le giuste tabelle al database, solo successivamente runnare il programma dal file "Applicazione.java".
